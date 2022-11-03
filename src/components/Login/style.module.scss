@@ -19,18 +19,17 @@
     }
 
     button {
-        background-color: white;
         font-weight: bold;
-        color: black;
-        padding: 10px;
         margin: 20px;
         border: 2px solid;
         text-transform: uppercase;
         text-decoration: none;
+        border: none;
 
         a {
             text-decoration: none;
             text-decoration-style: none;
+            color: white;
         }
     }
 
