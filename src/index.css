@@ -154,7 +154,10 @@ body {
   font-family: 'Manjari', sans-serif;
   color: #F0F0F0;
   background-color: #4C4C4C;
-  height: 100%;
+  background-image: url('../src/assets/img/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
   width: 100%;
   padding: 16px;
   box-sizing: border-box;
@@ -162,6 +165,7 @@ body {
 
 #root {
   width: 100%;
+  height: 100%;
 }
 
 ::-webkit-scrollbar {
