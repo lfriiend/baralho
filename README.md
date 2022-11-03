@@ -50,7 +50,7 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/lfriiend/baralho
 ```
 Abra o projeto com seu editor, com terminal aberto digite:
 
