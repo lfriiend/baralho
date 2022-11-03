@@ -6,9 +6,9 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-open_book)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#funcionalidades-hammer_and_wrench)
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
@@ -18,13 +18,13 @@
 
 :small_blue_diamond: [Tarefas em aberto](#tarefas-em-aberto)
 
-## Descrição do projeto 
+## Descrição do projeto :open_book:
 
 <p align="justify">
-  Um jogo de cartas que acumula pontos de acordo com a carta que é comprada diretamente da Poke API
+  Um jogo de cartas que acumula pontos de acordo com a carta que é comprada diretamente da API do Pokémon TCG.
 </p>
 
-## Funcionalidades
+## Funcionalidades :hammer_and_wrench:
 
 :heavy_check_mark: `Funcionalidade 1:` Coletar o nome do usuário, com handleSaveUser(), que irá jogar e exibir o mesmo no canto superior direito na próxima tela.
 
@@ -36,11 +36,13 @@
 
 :heavy_check_mark: `Funcionalidade 5:` Embaralhar as cartas e comprar 5 novamente.
 
-## Layout ou Deploy da Aplicação :dash:
+## Deploy da aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> Link do deploy da aplicação: https://lucas-pokemon-tcg.netlify.app/
 
-... 
+![tela1](https://user-images.githubusercontent.com/103463820/199766994-62c14da6-f496-4644-aa31-f6dca6a2671c.png)
+
+![tela2](https://user-images.githubusercontent.com/103463820/199767430-2ad88d2b-cb32-4a58-a719-1a203f988df6.png)
 
 
 ## Como rodar a aplicação :arrow_forward:
