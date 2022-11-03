@@ -16,7 +16,7 @@
 
 :small_blue_diamond: [Ferramentas utilizadas](#ferramentas-utilizadas-books)
 
-:small_blue_diamond: [Tarefas em aberto](#tarefas-em-aberto)
+:small_blue_diamond: [Tarefas em aberto](#tarefas-em-aberto-radioactive)
 
 ## Descrição do projeto :open_book:
 
@@ -73,7 +73,7 @@ A página vai recarregar quando você fizer alterações.
 - [Nodejs](https://nodejs.org/en/)
 - [API Pokémon TCG](https://pokemontcg.io/)
 
-## Tarefas em aberto
+## Tarefas em aberto :radioactive:
 
 :memo: Tarefa 1 
 - O erro listado abaixo é uma condição do TypeScript. Adicionar de forma dinâmica uma "key" para os respectivos elementos abaixo:
